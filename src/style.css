@@ -295,6 +295,18 @@ html, body {
   opacity: 0;
 }
 .msg-hand.is-visible { opacity: 0.92; }
+.msg-extra {
+  margin-top: 18px;
+  min-height: 1.6em;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 300;
+  font-size: clamp(16px, 2.2vw, 22px);
+  letter-spacing: 0.02em;
+  color: var(--ivory-dim);
+  transition-duration: 1.4s;
+}
+.msg-extra.is-visible { opacity: 0.95; }
 
 /* ---------- webcam ---------- */
 #cam-wrap {
@@ -363,6 +375,7 @@ body.ui-hidden #cam-wrap { opacity: 0 !important; }
   #message { bottom: 7vh; }
   .msg-sorry { font-size: clamp(28px, 9vw, 40px); }
   .msg-hand { font-size: 13px; }
+  .msg-extra { font-size: 15px; margin-top: 12px; }
   .intro-hint { margin-top: 34px; }
 }
 @media (max-height: 520px) {

@@ -79,6 +79,9 @@ export const TIMING = {
     sorryAt: 4.0,
     handAt: 6.6,
     finalAt: 9.6,
+    // the extra lines start here; each holds for `extraHold` seconds
+    extraAt: 11.5,
+    extraHold: 5.2,
   },
 } as const;
 
