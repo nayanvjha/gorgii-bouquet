@@ -1,9 +1,9 @@
 {
-  "name": "amrita-bouquet",
+  "name": "gorgii-bouquet",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "An interactive 3D flower bouquet — a digital apology for Amrita Ma'am.",
+  "description": "An interactive 3D flower bouquet — a digital apology for Gorgii❤️.",
   "scripts": {
     "dev": "vite --host",
     "build": "tsc --noEmit && vite build",

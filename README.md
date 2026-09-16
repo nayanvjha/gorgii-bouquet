@@ -1,11 +1,11 @@
-# For Amrita Ma’am
+# For Gorgii❤️
 
 An interactive 3D flower bouquet — a digital apology. The bouquet grows and
 blooms in response to your hands (MediaPipe hand tracking), and only once it is
 full does the message appear:
 
-> AMRITA MA’AM
-> I’m sorry, Ma’am.
+> GORGII❤️
+> I’m sorry, Gorgii❤️
 > *I wanted to say it properly, so I made you these.*
 
 Built with Three.js + TypeScript + Vite. No backend, no accounts. MediaPipe’s

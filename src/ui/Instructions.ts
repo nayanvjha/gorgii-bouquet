@@ -1,7 +1,7 @@
 import { TIMING } from '../config/constants';
 
 /**
- * The whisper ("Amrita Ma'am…"), the gesture hint, and the fallback note.
+ * The whisper ("Gorgii❤️…"), the gesture hint, and the fallback note.
  * They appear once, early, and get out of the way.
  */
 export class Instructions {

@@ -3,7 +3,7 @@ import { TIMING } from '../config/constants';
 /**
  * The apology. Three lines, in order, with time between them:
  *   AMRITA MA'AM
- *   I'm sorry, Ma'am.
+ *   I'm sorry, Gorgii❤️
  *   I wanted to say it properly, so I made you these.
  */
 export class MessageReveal {
